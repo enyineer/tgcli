@@ -51,8 +51,8 @@
     ],
     "topicSeparator": " ",
     "topics": {
-      "hello": {
-        "description": "Say hello to the world and others"
+      "send": {
+        "description": "Send a message to a chat"
       }
     }
   },
@@ -68,7 +68,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "bugs": "https://github.com/eyineer/tg-bot/issues",
+  "bugs": "https://github.com/eyineer/tgcli/issues",
   "keywords": [
     "oclif"
   ],
